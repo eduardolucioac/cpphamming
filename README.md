@@ -19,7 +19,7 @@ How to use!
 
  * Apply hamming...
 
- - NOTE: Random errors are generated to make a simulation during recovery!
+NOTE: Random errors are generated to make a simulation during recovery!
 
 ``` 
 ./hamming 0 filea.txt file.bin
