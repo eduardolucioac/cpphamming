@@ -34,7 +34,9 @@ NOTE: Random errors are generated to make a simulation during recovery!
 About!
 -----
 
-This project was created as activity relating to Project Integrator I discipline under the guidance of teacher Max Vizcarra Melgar (Master and Doctor). This discipline belonging to the Instituto de Educação Superior de Brasília IESB/Centro Universitário IESB.
+This project was created as activity on the Project Integrator I discipline taught by teacher Max Vizcarra Melgar (Master and Doctor).
+
+Instituto de Educação Superior de Brasília IESB/Centro Universitário IESB
 
 Contact
 -----
