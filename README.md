@@ -10,7 +10,7 @@ Compile!
 
  * Linux (The cool and good way!) =D
 
-For Linux it is enough have g++ installed! = D
+For Linux it is enough have g++ installed!
 
  * To compile and use...
 
