@@ -5,7 +5,7 @@ What is cpphamming?
 -----
 The Hamming code is a linear block code developed by Richard Hamming and is used in signal processing and telecommunications. This application uses this process to modify and recover files taking their bit 4 in 4 using the hamming process.
 
-Compile!
+Compile and use!
 -----
 
  * Linux (The cool and good way!) =D
