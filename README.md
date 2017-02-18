@@ -8,11 +8,11 @@ The Hamming code is a linear block code developed by Richard Hamming and is used
 Compile!
 -----
 
-Linux (The cool and good way!) =D
+ * Linux (The cool and good way!) =D
 
 For Linux it is enough have g++ installed! = D
 
-To compile and use...
+ * To compile and use...
 
 ```
 cd "/<pat_to_cpphamming>/cpphamming/"
@@ -27,7 +27,7 @@ g++ ./hamming_dec.cpp -o hamming_dec
 ./hamming_dec metamorphosis_err.bin metamorphosis_dec.txt
 ```
 
-Windows (The "hard" way!)
+ * Windows (The "hard" way!)
 
 For windows use Cygwin...
 
@@ -43,7 +43,7 @@ NOTE II: This version does not support "C++ 2011"/"C++11" by default, so we
     have to add the "-std=c++11" parameter.
 NOTE III: Use the command (cmd.exe) to run g++.
 
-To compile and use...
+ * To compile and use...
 
 ```
 cd "<letter>:\<pat_to_cpphamming>\cpphamming"
