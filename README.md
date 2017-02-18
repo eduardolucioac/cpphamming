@@ -12,7 +12,7 @@ Compile!
 
 For Linux it is enough have g++ installed!
 
- * To compile and use...
+ * To compile and use on Linux...
 
 ```
 cd "/<pat_to_cpphamming>/cpphamming/"
@@ -37,13 +37,13 @@ And install as instructions here...
 
 http://www2.warwick.ac.uk/fac/sci/moac/people/students/peter_cock/cygwin/part1
 
-NOTE I: For "path" use "C:\cygwin64\bin;C:\cygwin64\usr\sbin" 
-    (setup-x86_64.exe).
-NOTE II: This version does not support "C++ 2011"/"C++11" by default, so we 
-    have to add the "-std=c++11" parameter.
+NOTE I: For "path" use "C:\cygwin64\bin;C:\cygwin64\usr\sbin" (setup-x86_64.exe).
+
+NOTE II: This version does not support "C++ 2011"/"C++11" by default, so we have to add the "-std=c++11" parameter.
+
 NOTE III: Use the command (cmd.exe) to run g++.
 
- * To compile and use...
+ * To compile and use on Windows...
 
 ```
 cd "<letter>:\<pat_to_cpphamming>\cpphamming"
