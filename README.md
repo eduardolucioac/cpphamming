@@ -68,7 +68,7 @@ Instituto de Educação Superior de Brasília IESB/Centro Universitário IESB
 Contact
 -----
 
-okd_bare_metal 🄯 BSD-3-Clause  
+okd_bare_metal 🄯 Apache License 2.0  
 Eduardo Lúcio Amorim Costa  
 Brazil-DF  
 https://www.linkedin.com/in/eduardo-software-livre/
