@@ -213,7 +213,7 @@ std::vector<bool> hammingError(std::vector<bool> boolBitsArray){
     int forLimit=((int)boolBitsArray.size()/7)*7;
 
     /**
-        Recuperar o array de 7 em 7 e nesse range gerar o erro! 
+        Recover the array from 7 to 7 and in this range generate the error!
     */
     for(int boolBitsArrayCount=0; boolBitsArrayCount < forLimit; boolBitsArrayCount+=7){
 
